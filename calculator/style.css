@@ -1,0 +1,32 @@
+.color{
+    color: black;
+    background-color: aqua;
+    font-size: 50px;
+    width: 50px;
+}
+.forms{
+    color: black;
+    background-color: lightgrey;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    justify-content: center;
+    margin: 0px 510px;
+    height: 200px;
+}
+input{
+    font-size: 20px;
+}
+.cen{
+    text-align: center;
+}
+.chota{
+    background-color: cornflowerblue;
+    /* width: 350px; */
+    /* height:230px; */
+    /* margin: 0px 500px; */
+}
+.main{
+    background-color: black;
+}
